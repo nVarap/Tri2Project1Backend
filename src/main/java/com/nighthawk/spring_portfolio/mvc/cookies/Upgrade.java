@@ -10,7 +10,7 @@ public class Upgrade {
         this.click_per = cp;
         this.angel_tokens = 0;
     }
-
+    // create inhertances
     public void incLevel(){
         this.level ++;
         if (this.level % 5 == 0){
